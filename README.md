@@ -1,5 +1,14 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Environment
+
+Create an environment.json file in the /src directory and add your Yelp API key 
+```
+{
+  "apiKey": "yourYelpApiKey"
+}
+``` 
+
 ## Available Scripts
 
 In the project directory, you can run:
